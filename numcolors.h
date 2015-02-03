@@ -1,0 +1,2 @@
+int istty();
+int numcolors();
